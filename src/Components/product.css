@@ -1,0 +1,27 @@
+.productcard{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr;
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+}
+.productcard img{
+    height:400px;
+}
+.productcard p{
+    font-size: 20px;
+}
+.productcard h1{
+    font-size: 50px;
+}
+.productcard h5{
+    font-size: 30px;
+}
+.content{
+    background-color: black;
+    color: white;
+}
+.productcard img{
+    height: 400px;
+    width: 900px;
+}
